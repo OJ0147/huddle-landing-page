@@ -438,12 +438,12 @@ footer .logo {
     }
     .base{
         max-width: 400px;
-        min-height: 200px;
+        min-height: 230px;
         transform:translateY(90px);
     }
     .base h1{
-       padding: 10px 0;
-        font-size: 22px;
+       padding: 8px 0;
+        font-size: 20px;
     }
     .ad p{
         max-width: 300px;
@@ -468,5 +468,11 @@ footer .logo {
         width: 100%;
       
     }
-    
+    .base .pink-btn{
+        padding:20px 75px;
+
+    }
+    .base h1{
+        margin: 25px 0;
+    }
 }
